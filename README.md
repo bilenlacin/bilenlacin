@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bilenlacin
+- 👋 Hi, I’m @onurbilenlacin
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me onurbilenlacin@gmail.com
